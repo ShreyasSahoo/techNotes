@@ -1,6 +1,6 @@
 # Deployment Link
 
-The project is hosted here - [Movix](https://movie-app-nu-dun.vercel.app/)
+The project is hosted here - [techNotes](https://technotes-amz3.onrender.com/)
 
 # Getting Started with Create React App
 
